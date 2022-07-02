@@ -1,5 +1,48 @@
 # WebAPI-DotNet-SQLite-CrepesToGo
 
+## PURPOSE
+The project demonstrates use of .NET and a Microsoft SQL database in a web API, which will be the foundation of a React App
+
+## FOR USE IN React App
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/crepes_to_go_catalog.png)
+
+## Opening SQLite in VS Code
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/access_sqlite_in_vs_code.png)
+
+## Accessing SQLite from Explorer (Side Menu) in VS Code
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_explorer.png)
+
+## GET all in API via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_get_all_start.png)
+
+## GET all Result in SQLite
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_get_all.png)
+
+
+## POST new record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_post_sqlite.png)
+
+## POST result: New Record in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_after_post.png)
+
+## PUT (edit record) via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_put_sqlite.png)
+
+## PUT result: record changed in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_put.png)
+
+## GET single record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_get_one_record_sqlite.png)
+
+## Changed record in DB (after put)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_after_put.png)
+
+## DELETE newly created record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_delete_sqlite.png)
+
+## DELETE result: record gone in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/sqlite_delete.png)
+
 
 ############## HOW TO RUN ##############
 
