@@ -1,7 +1,7 @@
 # WebAPI-DotNet-SQLite-CrepesToGo
 
 ## PURPOSE
-The project demonstrates use of .NET and a Microsoft SQL database in a web API, which will be the foundation of a React App
+The project demonstrates use of .NET and an SQLite database in a web API, which will be the foundation of a React App
 
 ## FOR USE IN React App
 ![alt text](https://nateflake.com/wp-content/uploads/2022/07/crepes_to_go_catalog.png)
